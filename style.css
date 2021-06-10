@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://i.redd.it/f4nt766ib6m51.png);
+    background-size: 100%;
+}
+
+.header1{
+    text-align: center;
+    color: gold;
+    font-family: fantasy;
+    font-size: 90px;
+}
+
+.rllb{
+    margin-left: 425px;
+    font-family: fantasy;
+    background-color: blue;
+    border-radius: 30px;
+    width: 500px;
+    height: 75px;
+    font-size: 20px;
+}
+
+img{
+    margin: 50px;
+}
+
+.img1{
+    margin-top: 500px;
+}
